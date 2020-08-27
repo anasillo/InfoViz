@@ -1,6 +1,10 @@
 # Welcome to my Infovis repository
-## I'm [Agustin Nasillo](https://www.linkedin.com/in/agustin-nasillo/) and...
-### this is a WiP project, please be patient.
+
+### I'm [Agustin Nasillo](https://www.linkedin.com/in/agustin-nasillo/). Connect with me!!
+
+### And remember that this is a WiP project, please be patient.
+
+--------------------
 
 	To view all indexed works please refer to the following link:
 
