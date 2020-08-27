@@ -7,8 +7,9 @@
 --------------------
 
 	Or, if you prefer to, you can visit each link individually
-
-* [W31](https://anasillo.github.io/infovis/jobs/mom/w31.html)
+| MakeOverMonday | Description |
+| -------------------- | -------------------- |
+| [Week N°31](https://anasillo.github.io/infovis/jobs/mom/w31.html) | UK visits | 
 
 --------------------
 
